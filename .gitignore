@@ -21,9 +21,13 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+video/
+
 *.egg-info/
 .installed.cfg
 *.egg
+*.mp4
+
 MANIFEST
 
 # PyInstaller

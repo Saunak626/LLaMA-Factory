@@ -714,5 +714,33 @@
       "prompt": "content"
     },
     "folder": "python"
-  }
+  },
+    "mllm_videos_train": {
+      "file_name": "train_output.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "videos": "videos"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    },
+    "mllm_videos_test": {
+      "file_name": "test_output.json",
+      "formatting": "sharegpt",
+      "columns": {
+        "messages": "messages",
+        "videos": "videos"
+      },
+      "tags": {
+        "role_tag": "role",
+        "content_tag": "content",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
+    }
 }

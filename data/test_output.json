@@ -1,0 +1,1202 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: There are two people in the video, one in the blue with short hair is playing the game and the other with the long hair in the grey with blue icon is explaining the game. In the game, the game character with gray hair and a cartoon-patterned backpack on their back squatted down and moved to the left. Suddenly, a blue wall appeared, blocking a thrown grenade just in time. The commentator with long hair was shocked to see this scene and almost thought the companion was about to be accidentally hit by a grenade and was frightened to death. Then, the in-game character stood up and aimed their gun at the opponent to continue shooting.\nEvents:\nPerson with short hair plays game.\nPerson with long hair explains game.\nGame character squats down.\nGame character moves left.\nBlue wall appears.\nWall blocks thrown grenade.\nCommentator expresses shock.\nGame character stands up.\nGame character aims gun.\nGame character continues shooting.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/891.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video starts with a group of people walking along the beach. The scene then cuts to a long-haired child donned in a black hoodie and matching hat, taking a selfie on a beach by the sea. The child is seen reaching out with the left hand, while the right hand is holding the selfie device. The video's view initially elevates, circles the child, and finally lowers offering a sweeping view of the sea, sunset, lush greenery and the beach.\nEvents:\nPeople walk along the beach\nChild in black hoodie takes a selfie\nChild reaches out with left hand\nChild holds selfie device with right hand\nView elevates around the child\nView circles the child\nView lowers to show the sea\nSunset becomes visible\nLush greenery becomes visible\nBeach comes into sweeping view",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/937.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A bald man fires his gun ahead, the surrounding scenery quickly recedes, the camera angle switches to the front, a car sways from side to side, bullets strike the area around the car, the camera angle switches to the front of the car, inside there are two people, a brown-haired man is driving the car, and looks outside along with the other person in the car.\nEvents:\nA bald man fires his gun ahead.\nThe surrounding scenery quickly recedes.\nA car sways from side to side.\nBullets strike the area around the car.\nA brown-haired man is driving the car.\nThe brown-haired man looks outside.\nThe other person in the car looks outside.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/154.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The mechanical arm reaches into the water, attempting to retrieve glasses that emit a yellow glow. The camera cuts to a different angle from a camera, then switches back to the mechanical arm. In the water with the yellow glow, the mechanical arm crushes the goggles and slowly withdraws from the water.\nEvents:\nThe mechanical arm reaches into the water.\nThe mechanical arm attempts to retrieve the glasses.\nThe glasses emit a yellow glow.\nThe mechanical arm crushes the glasses.\nThe mechanical arm withdraws from the water.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/220.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The woman, holding an axe, ran to one side and leaned against the wall. Taking advantage of the light, she observed the surroundings of the corridor.\nEvents:\nThe woman grasped an axe.\nThe woman ran to one side.\nThe woman leaned against the wall.\nThe woman used the light to observe.\nThe woman surveyed the corridor's surroundings.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/214.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The background is a path in a park. Two little monkeys are running forward. A person holding food appears in front of the camera. The little monkey wearing yellow clothes runs over, grabs the food with its mouth, and turns to leave. The little monkey in red clothes didn't get any and reaches out to grab the clothes of the other monkey, trying to snatch the food from its mouth. A person holding food appears again in front of the camera. They turn to face the camera. The little monkey wearing pink clothes successfully snatches the food and eats with it in its mouth, while the other monkey is eating food in front of the camera. It looks back and then the food is snatched away by another monkey beside it and eaten up.\nEvents:\nTwo little monkeys run forward on a path.\nMonkey in yellow clothes grabs food with mouth.\nMonkey in yellow clothes turns to leave.\nMonkey in red clothes tries to snatch food.\nPerson holding food reappears.\nMonkey in pink clothes snatches the food.\nMonkey in pink clothes eats the food.\nMonkey in front of camera eats food.\nMonkey looks back.\nAnother monkey snatches and eats the food.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/592.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Two men close a window behind them, then a woman appears behind the window and smashes it with a hammer, causing the men to look at the shattered window and then turn to continue talking to each other.\nEvents:\nTwo men close a window behind themselves.\nA woman appears behind the window.\nThe woman smashes the window with a hammer.\nThe window shatters.\nThe two men look at the shattered window.\nThe two men turn to continue talking.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/13.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In a room, the wall facing us has white letters that read \"This is my tree house\". The camera zooms in on the white text, and then cuts to a character dressed in grey clothing with glasses showing a surprised expression. He blinks once, and then the scene refreshes, the character's clothing changes to white, and the window next to him turns into a wooden wall.\nEvents:\nCamera zooms in on the white text.\nCharacter shows a surprised expression.\nCharacter blinks once.\nScene refreshes.\nCharacter's clothing changes to white.\nWindow turns into a wooden wall.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/57.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The bald little boy sat on the mat while the little girl stood with her hands behind her back, talking to the boy. The little boy walked away to the left, then the screen faded to dark. The little boy came back and continued to sit on the mat. The little girl smiled, turned around, and turned on the projector in front of her.\nEvents:\nThe bald little boy sat on the mat.\nThe little girl talked to the bald little boy.\nThe bald little boy walked away to the left.\nThe screen faded to dark.\nThe bald little boy came back.\nThe bald little boy continued to sit on the mat.\nThe little girl smiled.\nThe little girl turned around.\nThe little girl turned on the projector.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/134.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A person wearing an orange helmet and dressed in a black short-sleeve shirt rides a motorcycle towards the mountain top. The camera follows the movement; dust flies along the way. As they are about to reach the summit, the person stands up from the motorcycle, plants their feet on the ground, then turns around, swings one leg over the bike, and continues to rev the engine, with dust enveloping them. The background is a mountain.\nEvents:\nPerson rides motorcycle towards the mountain top.\nMotorcycle stirs up dust along the way.\nPerson stands up from the motorcycle.\nPerson plants feet on the ground.\nPerson turns around.\nPerson swings leg over the bike.\nPerson continues to rev the motorcycle's engine.\nDust envelops the person.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/573.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A man first supports the chin of the woman in front of him with his left hand, then switches to his right hand, and then kisses the woman on her forehead.\nEvents:\nMan supports woman's chin with his left hand.\nMan switches to his right hand.\nMan kisses woman on her forehead.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/306.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, an individual with short hair is seen sporting a necklace, a white T-shirt, jeans, and glasses standing in a bathroom. They showcase a 'Loreal' brand mascara to the camera, which they are holding in their hand. On the bathroom counter, one can notice a makeup bag and a small stick immersed in some kind of yellow liquid. The camera angle then shifts, showing this person adjusting the white mirror, removing their glasses, and preparing to apply makeup.\nEvents:\nThe individual showcases a 'Loreal' mascara to the camera.\nThe individual adjusts the white mirror.\nThe individual removes their glasses.\nThe individual prepares to apply makeup.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/956.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: After the plane landed, it continued to taxi forward, with dust and smoke rising from all around. The camera follows the movement.\nEvents:\nThe plane landed.\nThe plane taxied forward.\nDust rose from the ground.\nSmoke rose from the ground.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/786.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The mirror reflected a man lying on the bed and a woman leaning against the headboard. The camera angle then switched to the bed, where the man glanced at the woman several times before sitting up to check the clock on the table, then lay back down again.\nEvents:\nThe mirror reflected a man lying on the bed.\nA woman leaned against the headboard.\nThe man glanced at the woman several times.\nThe man sat up to check the clock.\nThe man lay back down again.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/335.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A bare-chested man leans forward, glancing at the clothes he is putting on. He then slips his arms into the sleeves with effort, buttons up, and looks to the left.\nEvents:\nA bare-chested man leans forward.\nMan glances at the clothes.\nMan slips arms into sleeves.\nMan buttons up the clothes.\nMan looks to the left.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/289.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A woman picks up a cell phone, a child crawls out from the blankets, and the woman, child, and another older girl sit down together. The woman presses on the screen to start taking a selfie.\nEvents:\nA woman picks up a cell phone.\nA child crawls out from the blankets.\nThe woman sits down.\nAn older girl sits down.\nThe woman presses on the screen.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/327.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Four people look ahead and clap, among them the woman at the front turns her head to look at the man to her right, after making eye contact the two shake hands and slightly nod, then look forward again. The man wearing glasses walks over to them and shakes hands with each in turn, below the scene text appears as an introduction.\nEvents:\nFour people clap while looking ahead.\nThe woman at the front turns her head.\nThe woman and the man to her right make eye contact.\nThe woman and the man to her right shake hands.\nThe woman and the man slightly nod at each other.\nThey look forward again.\nThe man wearing glasses walks over to the group.\nThe man wearing glasses shakes hands with the first person.\nThe man wearing glasses shakes hands with the second person.\nText appears below the scene as an introduction.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/226.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, a man and two women are chatting and drinking together. The two ladies are talking and smiling, while the gentleman picks up the bottle and takes a sip.\nEvents:\nA man and two women chat.\nTwo women talk.\nTwo women smile.\nThe man picks up the bottle.\nThe man takes a sip.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/708.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The man opens the trunk of the car and turns to run forward; three puppies jump out and run ahead. The camera follows the movement; the puppies look back as they continue to run forward. The man walks on, with one puppy running up behind him, and together they look to their right. The background is a mountain road.\nEvents:\nThe man opens the trunk of the car\nThe man turns to run forward\nThree puppies jump out of the trunk\nThe puppies run ahead\nThe puppies look back while running\nThe man walks on\nOne puppy runs up behind the man\nThe man and one puppy look to their right",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/577.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The boy and the girl are writing, the girl looks towards the camera, the camera switches to a woman making a phone call, who turns her head to look to the left of the frame.\nEvents:\nThe boy writes.\nThe girl writes.\nThe girl looks towards the camera.\nThe woman makes a phone call.\nThe woman turns her head to the left.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/381.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video depicts a blonde-haired person, sporting a black swimsuit and a ponytail, standing on an orange jumping platform. With their back to the right, they face left and raise their hands. Following that, they jump, wrapping their arms around their legs and performing a spin in mid-air. They conclude by diving into the water, hand-first and feet-up, creating a considerable splash.\nEvents:\nBlonde-haired person stands on jumping platform.\nPerson faces left.\nPerson raises hands.\nPerson jumps from platform.\nPerson wraps arms around legs.\nPerson performs a spin in mid-air.\nPerson dives into the water.\nPerson enters water hand-first.\nPerson's feet go up.\nSplash occurs in water.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/999.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video features three animated characters: an elderly individual with glasses sitting in a red manual wheelchair; a young person sporting a ponytail in a red motorized wheelchair; and a third character with a prosthetic right foot, standing to the left of the second person.\nEvents:\n",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/804.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In a target range devoid of vegetation, a warrior presses bullets into a magazine on the ground, then walks up to a rifle, inserts the magazine into the rifle, followed by getting down, pulling the bolt, aiming, and firing. The scene switches to the side of the warrior, where a row of warriors is firing with the same weapons and stance.\nEvents:\nWarrior presses bullets into a magazine\nWarrior walks up to a rifle\nWarrior inserts the magazine into the rifle\nWarrior gets down\nWarrior pulls the bolt\nWarrior aims\nWarrior fires\nA row of warriors fires weapons\nWarriors adopt the same stance",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/421.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, the silhouette of a man sits motionless atop a wall, the camera angle switches to the man's side profile, and the man lifts his head to look forward.\nEvents:\nThe silhouette of a man sits atop a wall.\nThe man lifts his head.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/300.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: At the entrance of a room, a little boy placed a bundle of plants on the ground, then flipped up the hem of his jacket, shaking out a lot of elm seeds from his clothes. The boy then reached into his pants and pulled out more elm seeds. Following this, he shook his pant legs, and even more elm seeds fell out from there. Lastly, the boy picked up the bundle of plants that was at the doorway and set it down in front of the scattered elm seeds all over the floor. In the background, there was the sound of singing and a woman's laughter.\nEvents:\nA little boy placed a bundle of plants on the ground.\nThe little boy flipped up the hem of his jacket.\nElm seeds shook out from the little boy's jacket.\nThe little boy pulled out more elm seeds from his pants.\nThe little boy shook his pant legs.\nMore elm seeds fell out from the little boy's pant legs.\nThe little boy picked up the bundle of plants.\nThe little boy set the bundle down in front of scattered seeds.\nSound of singing is audible in the background.\nA woman's laughter is heard in the background.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/448.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A car is observed moving forward on a road with a red car to its left. Both cars proceed along the road, with the red car moving at a faster pace. Suddenly, the red car swerves to the right, coming to a halt directly in front of the first car. The driver of the first car fails to brake in time, subsequently colliding with the red car. This impact results in a shattered window and a dented front door on the red car.\nEvents:\nA car moves forward on a road.\nA red car proceeds alongside to the left.\nThe red car moves at a faster pace.\nThe red car swerves to the right.\nThe red car comes to a halt in front.\nThe first car fails to brake in time.\nThe first car collides with the red car.\nA window shatters on the red car.\nA front door dents on the red car.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/876.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Red smoke wafts through the air as a group of soldiers carrying shields and holding tools advance forward, with other pedestrians walking ahead.\nEvents:\nRed smoke wafts through the air\nSoldiers advance forward carrying shields\nSoldiers hold tools\nPedestrians walk ahead",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/789.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the featured video clip, two teams are engaged in a soccer match. Player number 23, donned in a white shirt and green shorts, stands out of bounds, attempting to pass the ball to a teammate clad in white attire, green pants, black socks, and green shoes. Concurrently, an opposing player wearing a red shirt and shorts makes an effort to steal the ball from player 23's teammate.\nEvents:\nPlayer 23 attempts to pass the ball\nOpposing player tries to steal the ball\nTeammate waits for the pass",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/873.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, a lady dressed in black is taking a selfie in the park. The first shot shows her turning around to face the camera, putting on sunglasses. The second shot captures her walking gracefully towards the camera. In the third shot, she opens her arms and runs away from the camera. The fourth shot shows her waving trekking poles as she walks forward.\nEvents:\nThe lady turns to face the camera.\nThe lady puts on sunglasses.\nThe lady walks towards the camera.\nThe lady opens her arms.\nThe lady runs away from the camera.\nThe lady waves trekking poles.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/403.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The camera captures a low-angle shot of a man wearing a black coat moving a table to the doorway. After setting it down, he turns and walks towards the camera, bends over to pick up a chair, and then heads back towards the doorway. Turning to look at the camera, he swings one arm in front of the lens.\nEvents:\nCamera captures a low-angle shot of a man.\nMan wearing black coat moves a table.\nMan positions the table at the doorway.\nMan turns and walks towards the camera.\nMan bends over to pick up a chair.\nMan carries the chair towards the doorway.\nMan turns to look at the camera.\nMan swings his arm in front of the lens.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/537.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The fighter jet moves forward, taking off into the sky, with thick smoke appearing on the runway as the camera pans to the right.\nEvents:\nThe fighter jet moves forward.\nThe fighter jet takes off into the sky.\nThick smoke appears on the runway.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/762.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The judge lifted the hand of the athlete on the right, then let it go, the camera switched to the audience seating, where the audience members clapped and cheered for the athlete.\nEvents:\nThe judge lifted the athlete's hand.\nThe judge let the athlete's hand go.\nThe audience members clapped.\nThe audience members cheered for the athlete.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/313.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Two men sit in the chair. A boy and a girl enter the scene. A man beckons the boy over and talks to him.\nEvents:\nTwo men sit in chairs.\nA boy and a girl enter the scene.\nA man beckons the boy over.\nThe man talks to the boy.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/205.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The character knocked the woman to the ground, then grabbed her and threw her against the wall, before raising an axe and leaping towards her. The woman dodged to the side and spun downwards, grabbing onto the wall to hang there, with a sword in her other hand.\nEvents:\nCharacter knocked woman to ground\nCharacter grabbed woman\nCharacter threw woman against wall\nCharacter raised axe\nCharacter leaped towards woman\nWoman dodged to the side\nWoman spun downwards\nWoman grabbed onto wall\nWoman hung on wall\nWoman held sword in hand",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/218.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In a classroom, a female character looks on in surprise at a device in front of her that generates a large amount of electric current, which then surges towards a frog.\nEvents:\nA female character looks on in surprise.\nA device generates a large amount of electric current.\nElectric current surges towards a frog.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/49.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A person holds an envelope in their right hand and a lighter in their left. They light the bottom left corner of the envelope, and it continues to burn, moving towards the right side of the person. The video ends after most of the paper has been burned away.\nEvents:\nA person holds an envelope in their right hand.\nA person holds a lighter in their left hand.\nThe person lights the bottom left corner of the envelope.\nThe flame moves towards the right side of the envelope.\nThe envelope continues to burn.\nThe video ends after most of the envelope has burned away.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/696.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A lady wearing a blue skirt, holding a wine bottle in one hand and a wine glass in the other, is surfing on a surfboard in the sea. While surfing, she pours a glass of wine from the bottle into the glass and then drinks it.\nEvents:\nLady holds wine bottle and glass while surfing.\nLady pours wine from bottle into glass.\nLady drinks wine from glass.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/497.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The girl whistles as she and the boy look upward together. The camera angle switches from their front to their back, and a large bird flies toward them. The large bird grabs the boy and flies away, while the girl turns to watch the direction in which the large bird is flying. The bird ascends into the sky, where other birds and burning objects are present.\nEvents:\nThe girl whistles.\nThe girl and the boy look upward together.\nA large bird flies toward the girl and the boy.\nThe large bird grabs the boy.\nThe large bird flies away with the boy.\nThe girl turns to watch the large bird.\nThe large bird ascends into the sky.\nOther birds are present in the sky.\nBurning objects are present in the sky.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/15.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video takes place on a vibrant green soccer field where an intense game is underway. One team is dressed in white jerseys and socks, while the opposing team is sporting red and black attire, complemented with black socks. A player from the white team skillfully controls the ball and successfully shoots it towards the rival team's goal. The goalkeeper, donned in orange, fails to stop the ball, resulting in a goal for the white team. The black and red team drops a point. In response, the crowd rises to their feet in an outpour of joy and merriment.\nEvents:\nSoccer game is underway on green field\nPlayer from white team controls the ball\nPlayer from white team shoots towards goal\nGoalkeeper in orange fails to stop the ball\nWhite team scores a goal\nRed and black team drops a point\nCrowd rises to their feet\nCrowd expresses joy and merriment",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/834.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Against a blurred background, a man looks ahead, then puts on his helmet, fastens the chin strap, straightens his collar, and adjusts the helmet again.\nEvents:\nMan looks ahead\nMan puts on helmet\nMan fastens chin strap\nMan straightens collar\nMan adjusts helmet",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/617.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video captured the process of mass printing of the US dollar. Initially, uncut sheets of US dollars quickly flashed one by one from the right to the left of the screen. Subsequently, the full sheets moved continuously upwards. Then, the sheets slowly progressed from the top down through a chute in the machine, followed by a slow push to the right. The entire process was operated by machines.\nEvents:\nUncut sheets of dollars flashed from right to left.\nFull sheets moved continuously upwards.\nSheets progressed top down through a chute.\nSheets received a slow push to the right.\nMachines operated the entire printing process.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/660.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The shot looks down as a man opens a lid with both hands and takes out a bottle to examine it.\nEvents:\nThe camera angle points downward.\nA man approaches the lid.\nThe man grasps the lid with both hands.\nThe man opens the lid.\nThe man reaches into the open space.\nThe man takes out a bottle.\nThe man examines the bottle.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/380.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The girl opens her mouth wide, turns around to look ahead, the camera cuts to the girl climbing up, cuts to the girl stepping on the boy, cuts to the girl lying down, cuts to the boy looking down at the approaching creature, and then he squats down, picks up the creature, and jumps to toss it upwards.\nEvents:\nThe girl opens her mouth wide.\nThe girl turns around to look ahead.\nThe girl climbs up.\nThe girl steps on the boy.\nThe girl lies down.\nThe boy looks down at the approaching creature.\nThe boy squats down.\nThe boy picks up the creature.\nThe boy jumps.\nThe boy tosses the creature upwards.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/177.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A woman dribbles the basketball with one arm while squatting down to pick up a jacket and slips on one of its sleeves. Then, with a forceful pat, the basketball flies out of the frame. The woman looks up, and as it falls back, she moves forward, continuing to dribble the basketball. The camera follows the movement.\nEvents:\nA woman dribbles the basketball with one arm.\nThe woman squats down.\nThe woman picks up a jacket.\nThe woman slips on a jacket sleeve.\nThe woman pats the basketball forcefully.\nThe basketball flies out of the frame.\nThe woman looks up.\nThe basketball falls back.\nThe woman moves forward.\nThe woman continues to dribble the basketball.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/540.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The girl bent down to open the small door at the rear of the bus, the camera cut to a close-up of the door being opened, and four reptilian creatures walked forward. The girl watched them, as three of the creatures leaped forward, and the snake looked back in the girl's direction.\nEvents:\nThe girl bent down to open the small door.\nFour reptilian creatures walked forward.\nThree of the creatures leaped forward.\nThe snake looked back in the girl's direction.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/174.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: One person scoops the chopped cherry tomatoes and cucumber from the cutting board into a glass bowl, with other vegetables also in the bowl and on the table.\nEvents:\nPerson scoops chopped cherry tomatoes into glass bowl.\nPerson scoops chopped cucumber into glass bowl.\nOther vegetables rest in the bowl.\nVegetables lay on the table.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/667.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The background features an indoor climbing wall. A woman is moving and climbing up the wall, coordinated with her hands and feet, then looks down while holding onto an object with one hand. The camera follows the movement.\nEvents:\nA woman climbs up the indoor wall.\nThe woman coordinates her hands and feet.\nThe woman looks down.\nThe woman holds onto an object with one hand.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/557.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Three kittens climbed onto the old man's legs, and the old man one by one removed the kittens from his legs and put them back on the ground, while another kitten climbed under the tree on the right. The camera remained steady.\nEvents:\nThree kittens climbed onto the old man's legs.\nThe old man removed one kitten from his legs.\nThe old man removed another kitten from his legs.\nThe old man removed the third kitten from his legs.\nA kitten climbed under the tree on the right.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/547.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In this video, an individual donned in a red sweater and checkered pants takes note of the Christmas tree in the room, which is aflame. The person appears terrified and begins to frantically search the room for something useful.\nEvents:\nIndividual takes note of the aflame Christmas tree.\nIndividual appears terrified.\nIndividual begins to search the room.\nIndividual frantically searches for something useful.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/984.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video shows a scene where a man is leaning against a wall, his mouth moving as if talking or singing. The camera pans down from his head, gradually revealing the man's hands playing a guitar. Finally, the camera slowly moves up from the guitar, panning back towards the man's head.\nEvents:\nThe man leans against the wall.\nThe man's mouth moves.\nThe camera pans down from the man's head.\nThe man's hands play the guitar.\nThe camera moves up from the guitar.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/692.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In a dirty and messy room, a person is holding a device and scanning the leftover food in a bowl. The camera then switches to another direction, where a bald man picks up a white towel from the sofa. Behind him, an agent is taking notes with a pen. The bald man turns the towel to face the camera, revealing a face pattern on the towel.\nEvents:\nA person scans leftover food in a bowl.\nA bald man picks up a white towel from the sofa.\nAn agent takes notes with a pen.\nThe bald man turns the towel to face the camera.\nA face pattern is revealed on the towel.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/160.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A lens with a reticle and a complex interface scans over the crowd as people dance.\nEvents:\nA lens with a reticle scans over the crowd.\nPeople dance.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/51.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Camera pans right in an old industrial workshop to a snowy landscape, displaying group of penguins.\nEvents:\nCamera pans right in an old industrial workshop\nCamera displays a snowy landscape\nGroup of penguins appears",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/9.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A rooster runs forward, with the camera following the movement. A man stands in front of a fence with his hands in his pockets, smiling as he looks at the rooster and walks towards it. Other hens follow by his side. The camera then cuts to the man walking forward, with the hens following behind him, as he looks back over his shoulder.\nEvents:\nA rooster runs forward.\nThe camera follows the rooster.\nA man stands in front of a fence.\nThe man walks towards the rooster.\nHens follow by the man's side.\nThe man walks forward.\nHens follow behind the man.\nThe man looks back over his shoulder.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/542.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A man bends down to look into the mirror, then straightens up, turns to face the camera, looks back at the mirror, and the camera moves forward, pushing all the way to the edge of the mirror near a photo of a woman.\nEvents:\nA man bends down to look into the mirror.\nThe man straightens up.\nThe man turns to face the camera.\nThe man looks back at the mirror.\nThe camera moves forward to the edge of the mirror.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/299.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The woman walks forward, reaches out with her right hand, the camera switches to the woman bumping into a lamp, covering her forehead with both hands, pulling back her left hand, saying something, then switches to another woman sitting and eating, looking up, and switches again to the woman reaching out to snatch snacks from the girl's hands.\nEvents:\nThe woman walks forward.\nThe woman reaches out with her right hand.\nThe woman bumps into a lamp.\nThe woman covers her forehead with both hands.\nThe woman pulls back her left hand.\nThe woman says something.\nAnother woman looks up while sitting and eating.\nThe woman snatches snacks from the girl's hands.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/366.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The camera zooms in, the figures of SpongeBob and other creatures gradually blur, the shot switches to a pipe opening, the camera pulls back, SpongeBob stretches out his hand to press the switch button, and raises his hands joyfully laughing.\nEvents:\nThe camera zooms in.\nFigures gradually blur.\nThe shot switches to a pipe opening.\nThe camera pulls back.\nSpongeBob stretches out his hand.\nSpongeBob presses the switch button.\nSpongeBob raises his hands.\nSpongeBob laughs joyfully.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/199.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A character wearing short sleeves reaches out and leads a character in a red cape out of the room. The camera then cuts to a television screen where subtitles are scrolling upwards. The camera switches again to show seven characters watching TV in the room.\nEvents:\nA character reaches out.\nA character leads another character.\nSubtitles scroll upwards on a television screen.\nSeven characters watch television.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/61.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The lights flicker as the woman walks forward, looking up above. The camera cuts to the light tube bursting and falling off.\nEvents:\nThe lights flicker.\nThe woman walks forward.\nThe woman looks up.\nThe light tube bursts.\nThe light tube falls off.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/362.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A middle-aged man and woman walked towards the camera, looking at a woman with a hat in the direction of the camera. The woman quickly turned around, and the camera cut to the ground. A cigarette butt was thrown onto the floor, then the camera switched back to the woman with the hat standing with a man in a green outfit. The woman covered her mouth with her hand, and the camera cut to the ground again, where a foot stepped on the cigarette butt.\nEvents:\nMiddle-aged man and woman walked towards the camera.\nWoman with hat looked at the camera direction.\nWoman with hat quickly turned around.\nCigarette butt was thrown onto the floor.\nWoman with hat stood with man in green outfit.\nWoman with hat covered her mouth with her hand.\nFoot stepped on the cigarette butt.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/290.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video portrays an individual in a lilac cardigan, dusting a green nightstand. They use a green duster and a white napkin in their cleaning process. The nightstand is adorned with various decorative items and electronics. Behind the nightstand is a window, with a white curtain embroidered in yellow hanging adjacent to it.\nEvents:\nIndividual dusts a green nightstand with a green duster.\nIndividual wipes the nightstand with a white napkin.\nCurtain hangs adjacent to the window.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/976.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video depicts metal strips covered in rust. A man initially sprays a particular solution onto the metal strip, followed by using a high-pressure water gun for cleaning. The rust is then removed by the water, resulting in a color change to gray.\nEvents:\nA man sprays a solution onto the rust-covered metal strip.\nA man uses a high-pressure water gun on the metal strip.\nThe water removes the rust from the metal strip.\nThe metal strip changes color to gray.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/906.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The video depicts a football match taking place on a green football field. The teams playing are the green team and the blue team. The players in the green team are dressed in green uniforms, green socks, and black trousers, whilst those in the blue team are wearing blue uniforms, trousers, and socks. In the game, the blue team loses possession of the ball, giving the green team an opportunity to strike. The orange-dressed goalkeeper fails to save the ball, allowing the green team's player, numbered 8, to score a goal. The green team erupts in excitement, while the blue team fails to defend their goal resulting in the green team scoring a point.\nEvents:\nThe football match takes place.\nThe blue team loses possession.\nThe green team seizes opportunity.\nThe green player number 8 shoots.\nThe orange-dressed goalkeeper fails to save.\nThe ball crosses the goal line.\nThe green team scores a goal.\nThe green team celebrates excitedly.\nThe blue team fails to defend.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/818.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The dog shook the water off its body, then turned its head to look back.\nEvents:\nThe dog shook the water off its body.\nThe dog turned its head to look back.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/749.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The background is filled with a bunch of weeds and leaves. A boy in a white short-sleeved shirt is sitting on the ground, placing a spoon on the ground, then he looks up at the camera before picking up a flaky yellow object and placing it inside a mango peel. He puts on the shoes made out of mango peels, and the camera switches to the boy standing up and alternating his feet to show off the mango shoes. Then, he looks up, claps his hands and smiles.\nEvents:\nA boy sits on the ground.\nThe boy places a spoon on the ground.\nThe boy looks up at the camera.\nThe boy picks up a flaky yellow object.\nThe boy places the object inside a mango peel.\nThe boy puts on shoes made of mango peels.\nThe boy stands up.\nThe boy alternates his feet.\nThe boy claps his hands.\nThe boy smiles.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/566.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The eagle soars in the sky, the camera follows and films it, then it smoothly lands on a cliff face.\nEvents:\nThe eagle soars in the sky.\nThe camera follows the eagle.\nThe eagle lands on a cliff face.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/735.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The man dressed in brown clothes sat at the edge of the table, and someone was walking around in a room behind him. Then the man turned his head, and around the tables sat others wearing the same clothes. Another man came up beside him and reached out to grab an apple from the table. The man dressed in brown clothes grabbed this man's hand, while a bald man sitting at the next table turned his head to watch everything.\nEvents:\nMan sat at the table's edge.\nSomeone walked around in the room.\nMan turned his head.\nOthers sat around the tables.\nAnother man approached the table.\nMan reached out for an apple.\nMan in brown clothes grabbed the approaching man's hand.\nBald man turned his head to watch.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/238.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The person clad in red clothing is holding a stopwatch while standing in the background, as two women crouch down in a starting position and then run forward together, with the camera following their movement.\nEvents:\nPerson holds a stopwatch.\nTwo women crouch down.\nWomen run forward together.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/775.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: On the right side of the video, an individual carrying luggage can be seen standing in front of a store while using a mobile phone. Suddenly, a white car halts on the right side of the road, obstructing the path of a white FedEx truck behind it. The FedEx logo is evident on the side of the truck in vivid shades of purple and green. We can infer that the FedEx truck may need to overtake the white car to continue on its path.\nEvents:\nIndividual stands in front of a store.\nIndividual uses mobile phone.\nWhite car halts on the right side of the road.\nWhite car obstructs the path of the FedEx truck.\nFedEx truck is behind the white car.\nFedEx truck may need to overtake the white car.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/895.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, the dark-skinned person with long orange hair, wearing a red shirt and black jacket and purple glasses, says a few words and immediately transforms into a white person with long blond hair and a ponytail wearing a blue headband, white top and blue skirt in the grassy area.\nEvents:\nThe person speaks.\nThe person transforms.\nThe transformed person appears in a grassy area.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/989.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: This video showcases a team battle in the game League of Legends. The red team progress forward, killing the blue team's characters one by one without sustaining any casualty. Various spells are cast by the red team, with animations of these spells visible on-screen. Notably, two players from the red team are responsible for eliminating three characters from the blue team. In this four on four matchup, the red team successfully takes down three characters from the blue team, leaving them with just one.\nEvents:\nThe red team advances forward\nThe red team eliminates the first blue character\nThe red team kills the second blue character\nThe red team takes out the third blue character\nVarious spells are cast by the red team\nAnimations of spells appear on-screen\nTwo red team players eliminate three blue characters\nThe red team engages in a four on four matchup\nThe red team leaves the blue team with one character",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/826.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The camera takes a bird's-eye view, a red-haired monster looks up, its mouth moves slightly, the camera pans upwards, and the monsters are arranged into a heart shape.\nEvents:\nCamera takes a bird's-eye view\nRed-haired monster looks up\nRed-haired monster's mouth moves slightly\nCamera pans upwards\nMonsters arrange into a heart shape",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/21.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: By the side of a pond, two workers dressed in red are cleaning. Inside the pool, an animal places a red buoy on the side of the pond, while a bald male worker is cleaning the pool from the shore with his hands. The animal then places a yellow buoy beside the pool as well. The camera cuts to the male worker sitting in front of a bucket with the small animal standing on the edge of the pool massaging his back. Then they both play a game of catching and throwing items. Following this, the male worker rubs the animal's head with a white object, and the small animal hands over white items one by one to the male worker. There are Chinese subtitles at the bottom of the screen.\nEvents:\nTwo workers clean by the pond.\nAnimal places red buoy on the pond side.\nBald worker cleans the pond from the shore.\nAnimal places yellow buoy beside the pond.\nBald worker sits in front of a bucket.\nSmall animal massages bald worker's back.\nBald worker and small animal play catch.\nBald worker rubs small animal's head with white object.\nSmall animal hands white items to bald worker.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/481.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: A person is swinging an axe down, repeatedly striking with force. The camera angle shifts from the man's upper body to slowly pan down to the ground, where the man is using the axe to chop at a wooden stake in front of him.\nEvents:\nA person swings an axe down.\nThe axe repeatedly strikes with force.\nThe man chops at a wooden stake.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/272.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The background is an urban park, where a man is preparing to cross a small river in the park with a dog in tow. There are several stepping stones in the river for people to cross. The man lets the dog go ahead while he follows, holding the leash. Just as they are crossing a few of the stepping stones, the little dog accidentally falls into the river. After a few floundering moments in the water, it starts to swim backwards towards the shore. The man, holding the leash, helps the little dog back onto land. Other people in the park are watching them.\nEvents:\nA man prepares to cross the river.\nDog goes ahead on stepping stones.\nMan follows holding the leash of the dog.\nThe little dog falls into the river.\nThe dog flounders in the water momentarily.\nDog starts to swim backwards toward the shore.\nMan helps the dog back onto land.\nOther people in the park watch the incident.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/477.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In this video clip, the person is riding a red motorcycle and a yellow bus with two front lights on is coming. To avoid hitting the yellow bus, the person riding a motorcycle chooeses to turn left. If not, there would be an accident. Some people including drivers or passengers would get hurt or be in danger. And the bus driver would be frightened.\nEvents:\nPerson rides red motorcycle\nYellow bus approaches with lights on\nMotorcycle turns left\nBus driver gets frightened",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/835.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: Three little puppies chased forward. The two on the sides tumbled down headfirst from the steps. The camera switched to the three little ones running in a line on the stairs, with the two at the back falling down. The camera then switched again, showing them running side by side, with the two on the left falling down, and the other one also falling down after running a distance.\nEvents:\nThree little puppies chased forward.\nTwo puppies tumbled down from the steps.\nThree puppies ran in a line on stairs.\nTwo back puppies fell down.\nPuppies ran side by side.\nTwo left puppies fell down.\nOther puppy fell down after running a distance.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/531.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The subtitles move from left to right in sequence, consisting of the red \"warning,\" the yellow \"alert,\" the green \"stand by,\" and the blue \"online.\"\nEvents:\nThe subtitles move from left to right.\nThe red 'warning' appears sequentially.\nThe yellow 'alert' follows after the red 'warning'.\nThe green 'stand by' comes next in sequence.\nThe blue 'online' displays lastly.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/781.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: In the video, an individual wearing glasses along with a white gown and red vest is shown receiving information from another person sporting a gray coat and a beard. The bearded person sits opposite the glasses-wearing individual. Secretly, the individual in glasses gestures with his fingers and left hand towards a distant sniper. Spotting the signal, the sniper who previously had his gun targeted, discontinues his action and refrains from taking the shot.\nEvents:\nIndividual in glasses receives information from bearded person\nBearded person sits opposite individual in glasses\nIndividual in glasses gestures with fingers\nIndividual in glasses gestures with left hand\nIndividual in glasses signals to distant sniper\nSniper previously targets with gun\nSniper spots the signal\nSniper discontinues his action\nSniper refrains from taking the shot",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/987.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<video>Please describe this video, mention who are the characters in it, what they did, and what is the background?",
+                "role": "user"
+            },
+            {
+                "content": "Description: The octopus carries two children forward, as the camera switches to three mermaids holding tridents.\nEvents:\nThe octopus carries two children forward.\nThree mermaids hold tridents.",
+                "role": "assistant"
+            }
+        ],
+        "videos": [
+            "video/DREAM-1K_videos/184.mp4"
+        ]
+    }
+]
