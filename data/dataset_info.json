@@ -1,10 +1,37 @@
 {
-      "video_training_data": {
-        "file_name": "video_training_data.json",
+      "multi_train_data": {
+        "file_name": "multi_train_data.json",
         "formatting": "sharegpt",
         "columns": {
           "messages": "messages",
           "videos": "videos"
+        },
+        "tags": {
+          "role_tag": "role",
+          "content_tag": "content",
+          "user_tag": "user",
+          "assistant_tag": "assistant"
+        }
+      },      
+      "video_train_data": {
+        "file_name": "video_train_data.json",
+        "formatting": "sharegpt",
+        "columns": {
+          "messages": "messages",
+          "videos": "videos"
+        },
+        "tags": {
+          "role_tag": "role",
+          "content_tag": "content",
+          "user_tag": "user",
+          "assistant_tag": "assistant"
+        }
+      },      
+      "action_train_data": {
+        "file_name": "action_train_data.json",
+        "formatting": "sharegpt",
+        "columns": {
+          "messages": "messages"
         },
         "tags": {
           "role_tag": "role",
