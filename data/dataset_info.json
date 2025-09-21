@@ -1,60 +1,228 @@
 {
-      "multi_train_data": {
-        "file_name": "multi_train_data.json",
-        "formatting": "sharegpt",
-        "columns": {
-          "messages": "messages",
-          "videos": "videos"
-        },
-        "tags": {
-          "role_tag": "role",
-          "content_tag": "content",
-          "user_tag": "user",
-          "assistant_tag": "assistant"
-        }
-      },      
-      "video_train_data": {
-        "file_name": "video_train_data.json",
-        "formatting": "sharegpt",
-        "columns": {
-          "messages": "messages",
-          "videos": "videos"
-        },
-        "tags": {
-          "role_tag": "role",
-          "content_tag": "content",
-          "user_tag": "user",
-          "assistant_tag": "assistant"
-        }
-      },      
-      "action_train_data": {
-        "file_name": "action_train_data.json",
-        "formatting": "sharegpt",
-        "columns": {
-          "messages": "messages"
-        },
-        "tags": {
-          "role_tag": "role",
-          "content_tag": "content",
-          "user_tag": "user",
-          "assistant_tag": "assistant"
-        }
-      },
-      "multimodal_training_data": {
-      "file_name": "multimodal_training_data.json",
-      "formatting": "sharegpt",
-      "columns": {
-        "messages": "messages",
-        "videos": "videos"
-      },
-      "tags": {
-        "role_tag": "role",
-        "content_tag": "content",
-        "user_tag": "user",
-        "assistant_tag": "assistant"
-      }
+  "smp_multi_train_data": {
+    "file_name": "smp_multi_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
     },
-    "multimodal_training_data_old": {
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "smp_multi_test_data": {
+    "file_name": "smp_multi_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "smp_video_train_data": {
+    "file_name": "smp_video_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "smp_video_test_data": {
+    "file_name": "smp_video_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "smp_action_train_data": {
+    "file_name": "smp_action_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "smp_action_test_data": {
+    "file_name": "smp_action_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_multi_train_data": {
+    "file_name": "subj_multi_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_multi_test_data": {
+    "file_name": "subj_multi_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_video_train_data": {
+    "file_name": "subj_video_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_video_test_data": {
+    "file_name": "subj_video_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_action_train_data": {
+    "file_name": "subj_action_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "subj_action_test_data": {
+    "file_name": "subj_action_test_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "multi_train_data": {
+    "file_name": "multi_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "video_train_data": {
+    "file_name": "video_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "action_train_data": {
+    "file_name": "action_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "multimodal_training_data": {
+    "file_name": "multimodal_training_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "multimodal_training_data_old": {
     "file_name": "multimodal_training_data_old.json",
     "formatting": "sharegpt",
     "columns": {
@@ -784,32 +952,32 @@
     },
     "folder": "python"
   },
-    "mllm_videos_train": {
-      "file_name": "train_output.json",
-      "formatting": "sharegpt",
-      "columns": {
-        "messages": "messages",
-        "videos": "videos"
-      },
-      "tags": {
-        "role_tag": "role",
-        "content_tag": "content",
-        "user_tag": "user",
-        "assistant_tag": "assistant"
-      }
+  "mllm_videos_train": {
+    "file_name": "train_output.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
     },
-    "mllm_videos_test": {
-      "file_name": "test_output.json",
-      "formatting": "sharegpt",
-      "columns": {
-        "messages": "messages",
-        "videos": "videos"
-      },
-      "tags": {
-        "role_tag": "role",
-        "content_tag": "content",
-        "user_tag": "user",
-        "assistant_tag": "assistant"
-      }
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
     }
+  },
+  "mllm_videos_test": {
+    "file_name": "test_output.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  }
 }
