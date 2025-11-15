@@ -157,8 +157,7 @@
     "file_name": "subj_action_test_data.json",
     "formatting": "sharegpt",
     "columns": {
-      "messages": "messages",
-      "videos": "videos"
+      "messages": "messages"
     },
     "tags": {
       "role_tag": "role",
